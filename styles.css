@@ -1,6 +1,3 @@
-* {
-  box-sizing: border-box;
-}
 
 body {
   font-family: Arial, sans-serif;
@@ -45,16 +42,14 @@ body {
 
 
 .main {   
-  -ms-flex: 60%; 
-  flex: 60%;
   background-color: white;
   padding: 20px;
 }
 
 
-.fakeimg img {
-  background-color: #aaa;
-  width: 100%;
+.imgremota img {
+  
+  width: 70%;
   padding: 20px;
 }
 
